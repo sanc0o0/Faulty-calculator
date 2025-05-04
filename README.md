@@ -42,8 +42,8 @@ Handling user inputs and events
 
 Creating fun interactive web apps
 
-📸 Screenshots
-(Optional: Add screenshots of your calculator UI here later.)
+📸 Screenshots/preview
+(https://htmlpreview.github.io/?https://github.com/sanc0o0/Faulty-calculator/blob/main/index.html)
 
 💬 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
